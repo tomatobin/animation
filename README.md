@@ -1,2 +1,2 @@
 # animation
-Simpl animation with objective-c
+Simple animation with objective-c
